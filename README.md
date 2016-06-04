@@ -1,2 +1,2 @@
 # YKBaseNavigationController
-YKBaseNavigationController
+自定义导航，可手动设置是否支持全屏Pop返回，支持Storyboard
